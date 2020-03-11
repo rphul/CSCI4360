@@ -7,6 +7,8 @@
 #include <iostream>
 #include <fstream>
 #include <math.h>
+lolol
+
 using namespace std;
 
 // angles of where the sensors are placed
